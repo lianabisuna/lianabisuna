@@ -1,6 +1,6 @@
 <h1>Liana Bisuña</h1>
 
-<h3>Finally graduated from a four-year course of Information Technology. Took an intership job and worked with a school maangement system project along with three developers. Practiced more by creating several projects mostly in Vue.js. Got to maximize my knowledge during pandemic and worked on three projects for a local company.</h3>
+<h5>Finally graduated from a four-year course of Information Technology. Took an intership job and worked with a school management system project along with three developers. Practiced more by creating several projects mostly in Vue.js. Got to maximize my knowledge during pandemic and worked on three projects for a local company. <i>Won't stop yet from creating magic with syntax and logic.</i></h5>
 
 - 🖥️ You can check my ongoing project [Colorcap](https://colorcap.netlify.app/): Keycap Color Editor
 
@@ -8,7 +8,7 @@
 
 - 🕊️ My mail is open **lianabisuna@gmail.com**. Say hello!
 
-- ⚡ Fun fact: I'm currently obsessed with stationery business and might switch careers soon lmao
+- 🌼 Fun fact: I'm currently obsessed with stationery business and might switch careers soon lmao
 
 ## Where you can find me
 <p align="left">
