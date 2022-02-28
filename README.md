@@ -6,9 +6,9 @@
 
 📖 I’m currently learning **Vue.js 3: Composition API**
 
-🕊️ My mail is open **lianabisuna@gmail.com**. Say hello!
+🕊️ My mail is open at **lianabisuna@gmail.com**. Say hello!
 
-🌼 Fun fact: I'm currently obsessed with stationery business and might switch careers soon lmao
+🌼 Fun fact: I'm currently obsessed with design and stationery business and might switch careers soon lmao
 
 ## Where you can find me
 <p align="left">
@@ -30,14 +30,12 @@
 - NPM
 
 ## Still studying these
+- Typescript
 - ReactJS
 - SASS/SCSS
 - Adobe Photoshop
 
 ## Tried but haven't practiced for a long time
-- Blender
-- Bootstrap
-- Material Design
 - PHP
 - CodeIgniter
 - Java
@@ -45,6 +43,9 @@
 - Android Development
 - MySQL
 - jQuery
+- Bootstrap
+- Material Design
+- Blender
 
 ## More about me
-You can check out the 8 projects I developed since 2018. I started programming when I was in first year college but got really passionate in my third year. I've also worked with 3 more projects during the 6 months in my first job. I'm looking for a job at the moment, you can contact me during weekdays. I value work-life-balance to avoid burnouts which happens a lot. Please reach out if you want to know more, I appreciate you for dropping by my github space!
+You can check out the eight projects I developed since 2018. I started programming when I was in my freshman year but got really passionate in my third year. I'm looking for a job at the moment, you can contact me during weekdays. Please reach out if you want to know more, I appreciate you for dropping by my github space!
