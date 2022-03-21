@@ -2,7 +2,7 @@
 
 <p>Finally graduated from a four-year course of Information Technology. Took an intership job and worked with a school management system project along with three developers. Practiced more by creating several projects mostly in Vue.js. Got to maximize my knowledge during pandemic and worked on three projects for a local company. <i>Won't stop yet from creating magic with syntax and logic.</i></p>
 
-🖥️ You can check my ongoing project [Colorcap](https://colorcap.netlify.app/): Keycap Color Editor
+🖥️ You can check my ongoing project [Colorcap](https://github.com/lianabisuna/colorcap): Keycap Color Editor
 
 📖 I’m currently learning **Vue.js 3: Composition API**
 
@@ -24,20 +24,24 @@
 - CSS 3
 - HTML 5
 - JavaScript
+- AJAX
+- REST
+- OOP
 - Visual Studio Code
 - Gitlab
 - Postman
 - NPM
 
 ## Still studying these
-- Typescript
 - ReactJS
 - SASS/SCSS
 - Adobe Photoshop
+- Typescript
 
 ## Tried but haven't practiced for a long time
 - PHP
 - CodeIgniter
+- MVC
 - Java
 - C++
 - Android Development
