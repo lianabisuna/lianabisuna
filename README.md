@@ -1,14 +1,14 @@
-<h1>Liana Bisuña</h1>
+<h1>Hi, I'm Liana Bisuña 👋</h1>
 
-<p>Finally graduated from a four-year course of Information Technology. Took an intership job and worked with a school management system project along with three developers. Practiced more by creating several projects mostly in Vue.js. Got to maximize my knowledge during pandemic and worked on three projects for a local company. <i>Won't stop yet from creating magic with syntax and logic.</i></p>
+<p>Welcome to my page! I'm an IT graduate and currently delving into frontend development. I like working with Vue.js and Tailwind among others and while I may not know a lot YET but useful things amazes me such as E2E Testing tools and stuff that enhances developer experience such as Typescript. Let's create magic with syntax and logic—<i>with a little bit of design on the side</i>...</p>
 
-🖥️ You can check my ongoing project [Colorcap](https://github.com/lianabisuna/colorcap): Keycap Color Editor
+🤍 Designed and developed by yours truly [REVV](https://revv-template.netlify.app)
 
-📖 I’m currently learning **Vue.js 3: Composition API**
+🌼 One of my personal project [Colorcap](https://colorcap.netlify.app/): Keycap Color Editor
 
-🕊️ My mail is open at **lianabisuna@gmail.com**. Say hello!
+📖 Leaning and looking into **Vue.js 3: Composition API**, **Cypress**, and **React**
 
-🌼 Fun fact: I'm currently obsessed with design and stationery business and might switch careers soon lmao
+🕊️ Mail is open at **lianabisuna@gmail.com**. Say hello!
 
 ## Where you can find me
 <p align="left">
@@ -18,12 +18,13 @@
 </p>
 
 ## Technologies I worked with recently
-- Vue.js 2 & 3
+- Vue.js 2
 - Tailwind CSS
 - Vuetify
 - CSS 3
+- SASS/SCSS
 - HTML 5
-- JavaScript
+- JavaScript ES6
 - AJAX
 - REST
 - OOP
@@ -31,12 +32,21 @@
 - Gitlab
 - Postman
 - NPM
+- Laravel Mix
+- Webpack
 
-## Still studying these
-- ReactJS
-- SASS/SCSS
-- Adobe Photoshop
+## Currently exploring and studying
+- Vue.js 3
+- Composition API
+- Composables
 - Typescript
+- Cypress
+- Pinia
+- Vite
+- React
+- React Hooks
+- Redux
+- Adobe Photoshop
 
 ## Tried but haven't practiced for a long time
 - PHP
@@ -52,4 +62,4 @@
 - Blender
 
 ## More about me
-You can check out the eight projects I developed since 2018. I started programming when I was in my freshman year but got really passionate in my third year. I'm looking for a job at the moment, you can contact me during weekdays. Please reach out if you want to know more, I appreciate you for dropping by my github space!
+I've been in the software development industry since college and the projects I have saved here are my prized possession for several years now. Do check them out! Reach out if you want to know more, I appreciate you for dropping by my Github space!
