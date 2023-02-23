@@ -4,9 +4,9 @@
 
 🤍 Designed and developed by yours truly [REVV](https://revv-template.netlify.app)
 
-🌼 One of my personal project [Colorcap](https://colorcap.netlify.app/): Keycap Color Editor
+🌼 1 of my personal project [Colorcap](https://colorcap.netlify.app/): Keycap Color Editor
 
-📖 Leaning and looking into **Vue.js 3: Composition API**, **Cypress**, and **React**
+📖 Leaning and looking into **Vue.js 3: Composition API**, **Cypress** & **React**
 
 🕊️ Mail is open at **lianabisuna@gmail.com**. Say hello!
 
@@ -62,4 +62,4 @@
 - Blender
 
 ## More about me
-I've been in the software development industry since college and the projects I have saved here are my prized possession for several years now. Do check them out! Reach out if you want to know more, I appreciate you for dropping by my Github space!
+I've been in the software development industry since college and the projects I have saved here are my prized possession for several years now. Do check them out! Reach out and let's connect if you want to know more. I appreciate you for dropping by my Github space!
