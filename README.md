@@ -18,7 +18,8 @@
 </p>
 
 ## Technologies I've worked with recently
-  <img alt="Vue.js 3" src="https://img.shields.io/badge/Vue-2-3EAF7C" />
+<p>
+   <img alt="Vue.js 3" src="https://img.shields.io/badge/Vue-2-3EAF7C" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-07ADCA" />
   <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-158FE9" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-2449D8" />
@@ -35,8 +36,10 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-1B72B6" />
   <img alt="Bootstrap 5" src="https://img.shields.io/badge/Bootstrap-5-3EAF7C" />
   <img alt="BootstrapVue" src="https://img.shields.io/badge/-BootstrapVue-3EAF7C" />
+</p>
 
 ## Currently exploring and studying
+<p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8" />
   <img alt="Vue.js 3" src="https://img.shields.io/badge/Vue-3-3EAF7C" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-9A66F2" />
@@ -44,9 +47,10 @@
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-454548" />
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-2F72BC" />
   <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-001C33" />
-
+ </p>
 
 ## Tried but haven't practiced for a long time
+<p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-454548" />
   <img alt="CodeIgniter" src="https://img.shields.io/badge/-CodeIgniter-454548" />
   <img alt="MVC" src="https://img.shields.io/badge/-MVC-454548" />
@@ -57,6 +61,7 @@
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-454548" />
   <img alt="Material Design" src="https://img.shields.io/badge/-Cypress-454548" />
   <img alt="Blender" src="https://img.shields.io/badge/-Cypress-454548" />
-
+</p>
+  
 ## More about moi
-I've been in the software development industry since college and the projects I have saved here are my prized possession for several years now. Do check them out and reach out—let's connect! I appreciate you for dropping by my Github space!
+I've been in the software development industry since college and the projects I've saved here are my prized possession for several years now. Do check them out and reach out—let's connect. Thanks for dropping by my Github space!
