@@ -1,12 +1,12 @@
 <h1>Hi, I'm Liana Bisuña 👋</h1>
 
-<p>Welcome to my page! I'm an IT graduate and currently delving into frontend development. I like working with Vue.js and Tailwind among others and while I may not know a lot YET but useful things amazes me such as E2E Testing tools and stuff that enhances developer experience such as Typescript. Let's create magic with syntax and logic—<i>with a little bit of design on the side</i>...</p>
+<p>Welcome to my page! I'm an I.T. graduate and currently delving into frontend development. I like working with Vue.js and Tailwind among others and while I may not know a lot YET but useful things amazes me such as E2E Testing tools and stuff that enhances developer experience such as Typescript. Let's create magic with syntax and logic—<i>with a little bit of design on the side</i>...</p>
 
-🤍 Designed and developed by yours truly [REVV](https://revv-template.netlify.app)
+🤍 Designed and developed by yours truly: [REVV](https://revv-template.netlify.app)
 
-🌼 1 of my personal project [Colorcap](https://colorcap.netlify.app/): Keycap Color Editor
+🌼 One of my personal project [Colorcap](https://colorcap.netlify.app/): Keycap Color Editor
 
-📖 Leaning and looking into **Vue.js 3: Composition API**, **Cypress** & **React**
+📖 Leaning and looking into **Composition API**, **Cypress** & **React**
 
 🕊️ Mail is open at **lianabisuna@gmail.com**. Say hello!
 
@@ -61,5 +61,5 @@
 - Material Design
 - Blender
 
-## More about me
-I've been in the software development industry since college and the projects I have saved here are my prized possession for several years now. Do check them out! Reach out and let's connect if you want to know more. I appreciate you for dropping by my Github space!
+## More about moi
+I've been in the software development industry since college and the projects I have saved here are my prized possession for several years now. Do check them out and reach out—let's connect! I appreciate you for dropping by my Github space!
