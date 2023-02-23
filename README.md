@@ -4,11 +4,11 @@
 
 🤍 [REVV](https://revv-template.netlify.app), designed and developed by yours truly
 
-🌼 A personal project: [Colorcap](https://colorcap.netlify.app/): Keycap Color Editor
+🌼 A personal project - [Colorcap](https://colorcap.netlify.app/): Keycap Color Editor
 
 📖 Learning **Composition API**, **Cypress** & **React**
 
-🕊️ Mail is open at **lianabisuna@gmail.com**. Say hello!
+🕊️ Mail is open **lianabisuna@gmail.com**. Say hello!
 
 ## Where you can find me
 <p align="left">
