@@ -81,7 +81,7 @@ My mail is open at **lianabisuna@gmail.com**. Say hello! 🕊️
     <img alt="Android Development" src="https://img.shields.io/badge/-Android Development-454548" />
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-454548" />
     <img alt="Blender" src="https://img.shields.io/badge/-Blender-454548" />
-    <img alt="Netlify" src="https://img.shields.io/badge/-Blender-Netlify" />
+    <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-454548" />
 </p>
 
 <br>
