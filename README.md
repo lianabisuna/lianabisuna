@@ -19,7 +19,9 @@ Welcome! I studied I.T. and currently delving into **frontend development**. I l
 
 ### Where you can find me
 
+```
 My mail is open at **lianabisuna@gmail.com**. Say hello! 🕊️
+```
 
 <table><tr><td>
     Connecting in <a href="https://linkedin.com/in/lianabisuna">LinkedIn</a>
