@@ -24,11 +24,11 @@ My mail is open at **lianabisuna@gmail.com**. Say hello! 🕊️
 </td></tr></table>
 
 <table><tr><td>
-    Sharing my designs at <a href="[https://linkedin.com/in/lianabisuna](https://instagram.com/typecodr)">Instagram</a>
+    Sharing my designs at <a href="https://instagram.com/typecodr">Instagram</a>
 </td></tr></table>
 
 <table><tr><td>
-    Writing blogs at <a href="[https://linkedin.com/in/lianabisuna](https://medium.com/@lianabisuna)">Medium</a>
+    Writing blogs at <a href="https://medium.com/@lianabisuna">Medium</a>
 </table>
 
     
