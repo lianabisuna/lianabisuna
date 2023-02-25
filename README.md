@@ -11,7 +11,7 @@ Welcome! I studied I.T. and currently delving into **frontend development**. I l
 - ⌨️ [Colorcap](https://colorcap.netlify.app): Minimalist Keycap Color Editor
 - ⚔️ [Summoner's Fate](https://summoners-quiz.netlify.app): Interactive Quiz for League of Legends players
 - 🌎 [LingoFrog](https://lingofrog.netlify.app): Instant Text Translations from Multiple Languages
-- 🧾 [Watobuy](https://watobuy.netlify.app): Handy Shopping List Calcualtor</p></p>
+- 🧾 [Watobuy](https://watobuy.netlify.app): Handy Shopping List Calcualtor
 - 🎵 [Votro](https://votro.netlify.app): Music Board & Voting App
 - 🦜 [Spelltacular](https://spelltacular.netlify.app): Random Word Spelling Practice
 
