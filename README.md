@@ -1,34 +1,37 @@
 # Hello, I'm Liana ✨
 
-Welcome! I'm an I.T. graduate and currently delving into **frontend development**. I like working with <u>Vue.js</u> and <u>Tailwind</u> among others and while I may not know a lot YET but useful things amaze me such as <i>E2E Testing</i> tools and stuff that enhances developer experience such as <i>Typescript</i>.
+Welcome! I studied I.T. and currently delving into **frontend development**. I like working with Vue.js and Tailwind among others and while I may not know a lot yet but useful things amaze me such as E2E testing tools and stuff that enhances developer experience such as Typescript.
 
 > Let's create magic with syntax and logic—<i>with a little bit of design on the side</i>.
 
+
 ### Here are sample projects
 - [REVV](https://revv-template.netlify.app): Landing Page Template
-- [Colorcap](https://colorcap.netlify.app/): Minimalist Keycap Color Editor
-- [Summoner's Fate](https://colorcap.netlify.app/): Interactive Quiz for League of Legends players
-- [LingoFrog](https://lingofrog.netlify.app/): Instant Text Translations from Multiple Languages
-- [Watobuy](https://watobuy.netlify.app/): Handy Shopping List Calcualtor
-- [Votro](https://votro.netlify.app/): Music Board & Voting App
-- [Spelltacular](https://spelltacular.netlify.app/): Random Word Spelling Skills Test/Practice
+- [Colorcap](https://colorcap.netlify.app): Minimalist Keycap Color Editor
+- [Summoner's Fate](https://summoners-quiz.netlify.app): Interactive Quiz for League of Legends players
+- [LingoFrog](https://lingofrog.netlify.app): Instant Text Translations from Multiple Languages
+- [Watobuy](https://watobuy.netlify.app): Handy Shopping List Calcualtor
+- [Votro](https://votro.netlify.app): Music Board & Voting App
+- [Spelltacular](https://spelltacular.netlify.app): Random Word Spelling Practice
+
 
 ### Where you can find me
 
-My mail is open at **lianabisuna@gmail.com**. Say hello! 🕊
+My mail is open at **lianabisuna@gmail.com**. Say hello! 🕊️
 
 <table><tr><td>
-Connecting in <a href="https://linkedin.com/in/lianabisuna">LinkedIn</a>
+    Connecting in <a href="https://linkedin.com/in/lianabisuna">LinkedIn</a>
 </td></tr></table>
 
 <table><tr><td>
-Sharing my designs at <a href="[https://linkedin.com/in/lianabisuna](https://instagram.com/typecodr)">Instagram</a>
+    Sharing my designs at <a href="[https://linkedin.com/in/lianabisuna](https://instagram.com/typecodr)">Instagram</a>
 </td></tr></table>
 
 <table><tr><td>
-Writing blogs at <a href="[https://linkedin.com/in/lianabisuna](https://medium.com/@lianabisuna)">Medium</a>
+    Writing blogs at <a href="[https://linkedin.com/in/lianabisuna](https://medium.com/@lianabisuna)">Medium</a>
 </table>
 
+    
 ### Technologies I've worked with recently
 
 <p>
@@ -53,6 +56,7 @@ Writing blogs at <a href="[https://linkedin.com/in/lianabisuna](https://medium.c
     <img alt="Material Design" src="https://img.shields.io/badge/-Material Design-454548" />
 </p>
 
+    
 ### Currently exploring and studying
 <p>
     <img alt="Vue.js 3" src="https://img.shields.io/badge/Vue-3-3EAF7C" />
@@ -61,8 +65,10 @@ Writing blogs at <a href="[https://linkedin.com/in/lianabisuna](https://medium.c
     <img alt="Pinia" src="https://img.shields.io/badge/-Pinia-FFE267" />
     <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-454548" />
     <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-2F72BC" />
+    <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-001C33" />
  </p>
 
+    
 ### Tried but haven't practiced for a long time
 <p>
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-454548" />
@@ -72,9 +78,10 @@ Writing blogs at <a href="[https://linkedin.com/in/lianabisuna](https://medium.c
     <img alt="C++" src="https://img.shields.io/badge/-C++-454548" />
     <img alt="Android Development" src="https://img.shields.io/badge/-Android Development-454548" />
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-454548" />
-    <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-001C33" />
     <img alt="Blender" src="https://img.shields.io/badge/-Blender-454548" />
+    <img alt="Netlify" src="https://img.shields.io/badge/-Blender-Netlify" />
 </p>
-  
+ 
+    
 ### More about moi
 I've been in the software development industry since college and the projects I've saved here are my prized possession. They were created from my heart: intuitive logo, cool name, responsive design, user interface and user experience up until planning and execution. Each of them has their own stories. Do check them out and reach out—let's connect! Thanks for dropping by my space 👋
