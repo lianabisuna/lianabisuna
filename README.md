@@ -7,13 +7,13 @@ Welcome! I studied I.T. and currently delving into **frontend development**. I l
 <br>
 
 ### Here are sample projects
-☄️ [REVV](https://revv-template.netlify.app): Landing Page Template
-⌨️ [Colorcap](https://colorcap.netlify.app): Minimalist Keycap Color Editor
-⚔️ [Summoner's Fate](https://summoners-quiz.netlify.app): Interactive Quiz for League of Legends players
-🌎 [LingoFrog](https://lingofrog.netlify.app): Instant Text Translations from Multiple Languages
-🧾 [Watobuy](https://watobuy.netlify.app): Handy Shopping List Calcualtor
-🎵 [Votro](https://votro.netlify.app): Music Board & Voting App
-🦜 [Spelltacular](https://spelltacular.netlify.app): Random Word Spelling Practice
+<p>☄️ [REVV](https://revv-template.netlify.app): Landing Page Template</p>
+<p>⌨️ [Colorcap](https://colorcap.netlify.app): Minimalist Keycap Color Editor</p>
+<p>⚔️ [Summoner's Fate](https://summoners-quiz.netlify.app): Interactive Quiz for League of Legends players</p>
+<p>🌎 [LingoFrog](https://lingofrog.netlify.app): Instant Text Translations from Multiple Languages</p>
+<p>🧾 [Watobuy](https://watobuy.netlify.app): Handy Shopping List Calcualtor</p></p></p>
+<p>🎵 [Votro](https://votro.netlify.app): Music Board & Voting App</p></p>
+<p>🦜 [Spelltacular](https://spelltacular.netlify.app): Random Word Spelling Practice</p>
 
 <br>
 
