@@ -33,6 +33,7 @@ My mail is open at **lianabisuna@gmail.com**. Say hello! 🕊️
     Writing blogs at <a href="https://medium.com/@lianabisuna">Medium</a>
 </table>
 
+<br>
     
 ### Technologies I've worked with recently
 
