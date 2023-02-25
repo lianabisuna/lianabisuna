@@ -1,6 +1,6 @@
 # Hello, I'm Liana ✨
 
-Welcome! I studied I.T. and currently delving into **frontend development**. I like working with Vue.js and Tailwind among others and while I may not know a lot yet but useful things amaze me such as E2E testing tools and stuff that enhances developer experience such as Typescript.
+Welcome! I studied I.T. and currently delving into **frontend development**. I like working with Vue.js and Tailwind among others and while I may not know a lot yet, I study useful things that amaze me such as E2E testing tools and look into stuff that enhances developer experience such as Typescript. Cheers to getting better 1% everyday!
 
 > Let's create magic with syntax and logic—<i>with a little bit of design on the side</i>.
 
