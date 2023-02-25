@@ -30,7 +30,7 @@ My mail is open at **lianabisuna@gmail.com**. Say hello! 🕊️
 </td></tr></table>
 
 <table><tr><td>
-    Writing blogs at <a href="https://medium.com/@lianabisuna">Medium</a>
+    Writing blogs with <a href="https://medium.com/@lianabisuna">Medium</a>
 </table>
 
 <br>
