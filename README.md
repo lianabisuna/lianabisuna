@@ -4,6 +4,7 @@ Welcome! I studied I.T. and currently delving into **frontend development**. I l
 
 > Let's create magic with syntax and logic—<i>with a little bit of design on the side</i>.
 
+<br>
 
 ### Here are sample projects
 - [REVV](https://revv-template.netlify.app): Landing Page Template
@@ -14,6 +15,7 @@ Welcome! I studied I.T. and currently delving into **frontend development**. I l
 - [Votro](https://votro.netlify.app): Music Board & Voting App
 - [Spelltacular](https://spelltacular.netlify.app): Random Word Spelling Practice
 
+<br>
 
 ### Where you can find me
 
@@ -81,7 +83,8 @@ My mail is open at **lianabisuna@gmail.com**. Say hello! 🕊️
     <img alt="Blender" src="https://img.shields.io/badge/-Blender-454548" />
     <img alt="Netlify" src="https://img.shields.io/badge/-Blender-Netlify" />
 </p>
- 
+
+<br>
     
 ### More about moi
 I've been in the software development industry since college and the projects I've saved here are my prized possession. They were created from my heart: intuitive logo, cool name, responsive design, user interface and user experience up until planning and execution. Each of them has their own stories. Do check them out and reach out—let's connect! Thanks for dropping by my space 👋
