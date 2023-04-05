@@ -1,12 +1,13 @@
 # Hello, I'm Liana ✨
 
-Welcome! I studied I.T. and currently delving into **frontend development**. I like working with Vue.js and Tailwind among others and while I may not know a lot yet, I study useful things that amaze me such as E2E testing tools and look into stuff that enhances developer experience such as Typescript. Cheers to getting better 1% everyday!
+Welcome! I'm a software developer currently delving into **frontend development**. I like to develop using Vue.js with Tailwind among others! Also, my current studies revolves around unit testing tools and integrating type-safety in my codebase. Cheers to getting better 1% everyday!
 
 > Let's create magic with syntax and logic—<i>with a little bit of design on the side</i>.
 
 <br>
 
 ### Here are sample projects
+- 👩‍💻 [Toolbox](https://vue-typescript-tailwind-toolbox.netlify.app): Developer's Starter UI Components (Work In Progress)
 - ☄️ [REVV](https://revv-template.netlify.app): Landing Page Template
 - ⌨️ [Colorcap](https://colorcap.netlify.app): Minimalist Keycap Color Editor
 - ⚔️ [Summoner's Fate](https://summoners-quiz.netlify.app): Interactive Quiz for League of Legends players
@@ -62,17 +63,18 @@ My mail is open at **lianabisuna@gmail.com**. Say hello! 🕊️
 ### Currently exploring and studying
 <p>
     <img alt="Vue.js 3" src="https://img.shields.io/badge/Vue-3-3EAF7C" />
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8" />
+    <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-2F72BC" />
     <img alt="Vite" src="https://img.shields.io/badge/-Vite-9A66F2" />
     <img alt="Pinia" src="https://img.shields.io/badge/-Pinia-FFE267" />
     <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-454548" />
-    <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-2F72BC" />
-    <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-001C33" />
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8" />
  </p>
 
     
 ### Tried but haven't practiced for a long time
 <p>
+    <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-001C33" />
+    <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-454548" />
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-454548" />
     <img alt="CodeIgniter" src="https://img.shields.io/badge/-CodeIgniter-454548" />
     <img alt="MVC" src="https://img.shields.io/badge/-MVC-454548" />
@@ -81,10 +83,9 @@ My mail is open at **lianabisuna@gmail.com**. Say hello! 🕊️
     <img alt="Android Development" src="https://img.shields.io/badge/-Android Development-454548" />
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-454548" />
     <img alt="Blender" src="https://img.shields.io/badge/-Blender-454548" />
-    <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-454548" />
 </p>
 
 <br>
     
-### More about moi
+### More about me
 I've been in the software development industry since college and the projects I've saved here are my prized possession. They were created from my heart: intuitive logo, cool name, responsive design, user interface and user experience up until planning and execution. Each of them has their own stories. Do check them out and reach out—let's connect! Thanks for dropping by my space 👋
