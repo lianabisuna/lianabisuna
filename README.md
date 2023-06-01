@@ -1,6 +1,6 @@
 # Hello, I'm Liana ✨
 
-Welcome! I'm a software developer currently delving into **frontend development**. I like to develop using Vue.js with Tailwind among others! My current studies revolves around unit testing tools and integrating type-safety in my codebase. Cheers to getting better 1% everyday!
+Welcome! I'm a software developer currently delving into **frontend development**. I like to develop using Vue.js with Tailwind among others! My current studies revolves around unit testing tools and integrating type-safety in my codebase. I'm also trying out the different JavaScript frameworks and their differences from each other. Cheers to getting better 1% everyday!
 
 > Let's create magic with syntax and logic—<i>with a little bit of design on the side</i>.
 
@@ -39,10 +39,13 @@ My mail is open at **lianabisuna@gmail.com**. Say hello! 🕊️
     
 ### Technologies I've worked with recently
 <p>
-    <img alt="Vue.js 3" src="https://img.shields.io/badge/Vue-2-3EAF7C" />
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8" />
+    <img alt="Vue.js 3" src="https://img.shields.io/badge/Vue-3-3EAF7C" />
     <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-2F72BC" />
     <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-07ADCA" />
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8" />
+    <img alt="Jest" src="https://img.shields.io/badge/Jest-7E3653" />
+    <img alt="Vitest" src="https://img.shields.io/badge/Vitest-F0BE2A" />
+    <img alt="Vue.js 2" src="https://img.shields.io/badge/Vue-2-3EAF7C" />
     <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-158FE9" />
     <img alt="CSS" src="https://img.shields.io/badge/-CSS-2449D8" />
     <img alt="SASS/SCSS" src="https://img.shields.io/badge/-SASS-C36291" />
