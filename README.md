@@ -70,6 +70,8 @@ My mail is open at **lianabisuna@gmail.com**. Say hello! 🕊️
 <p>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8" />
     <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-2F72BC" />
+    <img alt="Jest" src="https://img.shields.io/badge/Jest-7E3653" />
+    <img alt="Vitest" src="https://img.shields.io/badge/Vitest-F0BE2A" />
     <img alt="Vue.js 3" src="https://img.shields.io/badge/Vue-3-3EAF7C" />
     <img alt="Vite" src="https://img.shields.io/badge/-Vite-9A66F2" />
     <img alt="Pinia" src="https://img.shields.io/badge/-Pinia-FFE267" />
