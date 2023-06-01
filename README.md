@@ -1,13 +1,14 @@
 # Hello, I'm Liana ✨
 
-Welcome! I'm a software developer currently delving into **frontend development**. I like to develop using Vue.js with Tailwind among others! Also, my current studies revolves around unit testing tools and integrating type-safety in my codebase. Cheers to getting better 1% everyday!
+Welcome! I'm a software developer currently delving into **frontend development**. I like to develop using Vue.js with Tailwind among others! My current studies revolves around unit testing tools and integrating type-safety in my codebase. Cheers to getting better 1% everyday!
 
 > Let's create magic with syntax and logic—<i>with a little bit of design on the side</i>.
 
 <br>
 
 ### Here are sample projects
-- 👩‍💻 [UI Components](https://vue-typescript-tailwind-toolbox.netlify.app): Developer's Starter Kit (Work In Progress)
+- ❄️ [UI Sandbox](https://vue-typescript-tailwind-toolbox.netlify.app): ReactJS - Developer's Starter Kit [WIP]
+- 🧁 [UI Toolbox](react-typescript-tailwind-toolbox.netlify.app): VueJS 3 - Developer's Starter Kit [WIP]
 - ☄️ [REVV](https://revv-template.netlify.app): Landing Page Template
 - ⌨️ [Colorcap](https://colorcap.netlify.app): Minimalist Keycap Color Editor
 - ⚔️ [Summoner's Fate](https://summoners-quiz.netlify.app): Interactive Quiz for League of Legends players
@@ -39,6 +40,8 @@ My mail is open at **lianabisuna@gmail.com**. Say hello! 🕊️
 ### Technologies I've worked with recently
 <p>
     <img alt="Vue.js 3" src="https://img.shields.io/badge/Vue-2-3EAF7C" />
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8" />
+    <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-2F72BC" />
     <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-07ADCA" />
     <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-158FE9" />
     <img alt="CSS" src="https://img.shields.io/badge/-CSS-2449D8" />
@@ -62,12 +65,12 @@ My mail is open at **lianabisuna@gmail.com**. Say hello! 🕊️
     
 ### Currently exploring and studying
 <p>
-    <img alt="Vue.js 3" src="https://img.shields.io/badge/Vue-3-3EAF7C" />
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8" />
     <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-2F72BC" />
+    <img alt="Vue.js 3" src="https://img.shields.io/badge/Vue-3-3EAF7C" />
     <img alt="Vite" src="https://img.shields.io/badge/-Vite-9A66F2" />
     <img alt="Pinia" src="https://img.shields.io/badge/-Pinia-FFE267" />
     <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-454548" />
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8" />
  </p>
 
     
