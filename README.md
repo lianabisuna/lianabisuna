@@ -7,8 +7,8 @@ Welcome! I'm a software developer currently delving into **frontend development*
 <br>
 
 ### Here are sample projects
-- ❄️ [UI Library](https://vue-typescript-tailwind-toolbox.netlify.app): ReactJS Sandbox [WIP]
-- 🧁 [UI Library](react-typescript-tailwind-toolbox.netlify.app): VueJS 3 Toolbox [WIP]
+- ❄️ [UI Collection](https://vue-typescript-tailwind-toolbox.netlify.app): ReactJS Sandbox [WIP]
+- 🧁 [UI Collection](react-typescript-tailwind-toolbox.netlify.app): VueJS 3 Toolbox [WIP]
 - ☄️ [REVV](https://revv-template.netlify.app): Landing Page Template
 - ⌨️ [Colorcap](https://colorcap.netlify.app): Minimalist Keycap Color Editor
 - ⚔️ [Summoner's Fate](https://summoners-quiz.netlify.app): Interactive Quiz for League of Legends players
