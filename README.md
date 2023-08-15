@@ -1,20 +1,20 @@
 # Hello, I'm Liana ✨
 
-Welcome! I'm a software developer currently delving into **frontend development**. I like to develop using Vue.js with Tailwind among others! My current studies revolves around unit testing tools and integrating type-safety in my codebase. I'm also trying out the different JavaScript frameworks and their differences from each other. Cheers to getting better 1% everyday!
+Welcome! I'm a software developer currently delving into **frontend development**. I like to develop web applications using Vue.js with Tailwind among others! My current studies revolves around unit testing tools and integrating type-safety in my codebase. I'm also trying out Laravel for API development. Cheers to getting better 1% everyday!
 
 > Let's create magic with syntax and logic—<i>with a little bit of design on the side</i>.
 
 <br>
 
 ### Here are sample projects
-- ❄️ [UI Collection](https://vue-typescript-tailwind-toolbox.netlify.app): ReactJS Sandbox [WIP]
-- 🧁 [UI Collection](react-typescript-tailwind-toolbox.netlify.app): VueJS 3 Toolbox [WIP]
+- ❄️ [UI Collection](https://vue-typescript-tailwind-toolbox.netlify.app): React Sandbox
+- 🧁 [UI Collection](react-typescript-tailwind-toolbox.netlify.app): Vue Toolbox
 - ☄️ [REVV](https://revv-template.netlify.app): Landing Page Template
-- ⌨️ [Colorcap](https://colorcap.netlify.app): Minimalist Keycap Color Editor
 - ⚔️ [Summoner's Fate](https://summoners-quiz.netlify.app): Interactive Quiz for League of Legends players
-- 🌎 [LingoFrog](https://lingofrog.netlify.app): Instant Text Translations from Multiple Languages
-- 🧾 [Watobuy](https://watobuy.netlify.app): Handy Shopping List Calcualtor
+- 🧾 [Watobuy](https://watobuy.netlify.app): Handy Shopping List Calculator
 - 🎵 [Votro](https://votro.netlify.app): Music Board & Voting App
+- 🌎 [LingoFrog](https://lingofrog.netlify.app): Instant Text Translations from Multiple Languages
+- ⌨️ [Colorcap](https://colorcap.netlify.app): Minimalist Keycap Color Editor
 - 🦜 [Spelltacular](https://spelltacular.netlify.app): Random Word Spelling Practice
 
 <br>
@@ -68,6 +68,9 @@ My mail is open at **lianabisuna@gmail.com**. Say hello! 🕊️
     
 ### Currently exploring and studying
 <p>
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-F04235" />
+    <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-08DD86" />
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-252525" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8" />
     <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-2F72BC" />
     <img alt="Jest" src="https://img.shields.io/badge/Jest-7E3653" />
@@ -96,4 +99,4 @@ My mail is open at **lianabisuna@gmail.com**. Say hello! 🕊️
 <br>
     
 ### More about me
-I've been in the software development industry since college and the projects I've saved here are my prized possession. They were created from my heart: intuitive logo, cool name, responsive design, user interface and user experience up until planning and execution. Each of them has their own stories. Do check them out and reach out—let's connect! Thanks for dropping by my space 👋
+I've been in the software development industry since college and the projects I've saved here are my prized possession. They were created from my heart: intuitive logo, cool name, responsive design, user interface, and user experience—up until planning and execution. Each of them has their own stories. Do check them out and reach out—let's connect! Thanks for dropping by my space 👋
