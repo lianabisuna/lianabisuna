@@ -7,8 +7,8 @@ Welcome! I'm a software developer currently delving into **frontend development*
 <br>
 
 ### Here are sample projects
-- ❄️ [UI Collection](https://vue-typescript-tailwind-toolbox.netlify.app): React Sandbox
-- 🧁 [UI Collection](react-typescript-tailwind-toolbox.netlify.app): Vue Toolbox
+- ❄️ [UI Collection](https://react-typescript-tailwind-toolbox.netlify.app): React Sandbox
+- 🧁 [UI Collection](https://vue-typescript-tailwind-toolbox.netlify.app): Vue Toolbox
 - ☄️ [REVV](https://revv-template.netlify.app): Landing Page Template
 - ⚔️ [Summoner's Fate](https://summoners-quiz.netlify.app): Interactive Quiz for League of Legends players
 - 🧾 [Watobuy](https://watobuy.netlify.app): Handy Shopping List Calculator
